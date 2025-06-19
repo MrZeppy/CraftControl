@@ -1,0 +1,32 @@
+##########################################################
+#
+#  _____
+# |__  /___ _ __  _ __  _   _
+#   / // _ \ '_ \| '_ \| | | |
+#  / /|  __/ |_) | |_) | |_| |
+# /____\___| .__/| .__/ \__, |
+#          |_|   |_|    |___/
+#
+#    CraftControl Plugin by Zeppy
+#    Config file — please do not delete or modify badly
+#
+##########################################################
+
+# List of items you want to disable crafting for
+# Use uppercase material names exactly as in Minecraft.
+# Indent with 2 spaces and use hyphens (-) for each item.
+# Example:
+#blocked-recipes:
+#  - "NETHERITE_SWORD"
+#  - "DIAMOND_CHESTPLATE"
+#
+#blocked-enchantments:
+#  - "mending"
+#  - "unbreaking"
+#  - "fortune"
+#  - "looting"
+
+blocked-recipes:
+
+
+blocked-enchantments:
