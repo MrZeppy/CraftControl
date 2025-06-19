@@ -1,4 +1,4 @@
-package me.zeppytest.craftControl;
+package me.zeppy.craftControl;
 
 import org.bukkit.Material;
 import org.bukkit.command.CommandExecutor;
